@@ -1,0 +1,21 @@
+20
+ 0  3  1  4  9     The Fountainhead
+ 1  3  0  2  8     The Rumpus Room
+ 2  2  1  6        Buford's Folly
+ 3  3  7  4  5     The Hall of Kings
+ 4  4 12  0  8  3  The Silver Mirror
+ 5  4  8  3  9 11  The Gallimaufry
+ 6  4 14 13  2  7  The Den of Iniquity
+ 7  3  3  6 19     The Findledelve
+ 8  3  5  1  4     The Page of the Deniers
+ 9  4  0 10 12  5  The Final Tally
+10  2  9 15        Ess four
+11  3 14 16 5      The Trillion
+12  2  4  9        The Scrofula
+13  4  6 16  8 14  Ephemeron
+14  3  6 13 11     Shelob's Lair
+15  3 10 17 16     The Lost Caverns of the Wyrm
+16  3 17 15 19     The Lost Caverns of the Wyrm
+17  3 16 17 18     The Lost Caverns of the Wyrm
+18  3 19 18 17     The Lost Caverns of the Wyrm
+19  3 17 18 19     The Lost Caverns of the Wyrm
